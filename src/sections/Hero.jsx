@@ -73,7 +73,7 @@ const Hero = () => {
 
         {/* Main title */}
         <h1 className="hero-animate font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl leading-[0.9] text-cream mb-6 max-w-4xl">
-          Iracambi<br />
+          IRACAMBI<br />
           <span
             style={{
               background: 'linear-gradient(135deg, #c9a84c 0%, #d4762a 60%, #7cba7c 100%)',
@@ -82,7 +82,7 @@ const Hero = () => {
               backgroundClip: 'text',
             }}
           >
-            Trail Running
+            Trail Run
           </span>
         </h1>
 

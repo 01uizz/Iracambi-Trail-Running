@@ -35,7 +35,7 @@ const Header = () => {
           <div>
             <span className="font-display text-cream text-lg leading-none block">Iracambi</span>
             <span className="font-mono text-[9px] tracking-[0.25em] uppercase text-trail-gold leading-none">
-              Trail Running
+              Trail Run
             </span>
           </div>
         </a>
